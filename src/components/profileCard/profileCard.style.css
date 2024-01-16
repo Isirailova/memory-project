@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.profile-container {
+  display: flex;
+  justify-content: center;
+  border: 1px solid black;
+  width: 200px;
+  padding: 10px;
+}
+.text {
+}
+h5 {
+  font-size: 20px;
+}
+h6 {
+  font-size: 15px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+img {
+  border: 1px solid black;
+}
